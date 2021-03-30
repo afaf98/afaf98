@@ -11,8 +11,8 @@ Something that I really care in my projects is quality! I love creating Applicat
 - 👨🏽‍💻 Currently I'm working on my Photo Sharing App (any suggestions for the name are accepted 😉)
 - 💬 I enjoy meeting new people and hearing new prospective.
 - 📫 Reach me if you wanna talk about new technologies, creating software products, or for anything else 😉
-  | - [afaf.ibrahimi@gmail.com]();
-  | - [Linkedin](https://www.linkedin.com/in/afaf-ibrahimi-7aab63169/)
+   - [afaf.ibrahimi@gmail.com]();
+   - [Linkedin](https://www.linkedin.com/in/afaf-ibrahimi-7aab63169/)
 - 📝 That is my : [Resume](resume)
 
 ---
