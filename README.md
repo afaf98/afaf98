@@ -19,7 +19,7 @@ Something that I really care in my projects is quality! I love creating Applicat
 
 ## My GitHub Stats 🐙
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afaf9898&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afaf98&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afaf98&hide=GLSL)](https://github.com/anuraghazra/github-readme-stats)
 
