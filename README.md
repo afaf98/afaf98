@@ -10,7 +10,9 @@ Something that I really care in my projects is quality! I love creating Applicat
 
 - 👨🏽‍💻 Currently I'm working on my Photo Sharing App (any suggestions for the name are accepted 😉)
 - 💬 I enjoy meeting new people and hearing new prospective.
-- 📫 Reach me if you wanna talk about new technologies, creating software products, or for anything else 😉 : [afaf.ibrahimi@gmail.com]();
+- 📫 Reach me if you wanna talk about new technologies, creating software products, or for anything else 😉
+  | - [afaf.ibrahimi@gmail.com]();
+  | - [Linkedin](https://www.linkedin.com/in/afaf-ibrahimi-7aab63169/)
 - 📝 That is my : [Resume](resume)
 
 ---
@@ -22,27 +24,6 @@ Something that I really care in my projects is quality! I love creating Applicat
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afaf98&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afaf98&hide=GLSL)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-# My Projects
-
-- ## My Photo Sharing App 📸
-
-<a href="https://github.com/afaf98/IG-Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=afaf98&repo=IG-Clone&theme=radical" />
-</a>    
-<a href="https://github.com/afaf98/Backend_IGClone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=afaf98&repo=Backend_IGClone&theme=radical" />
-</a>
-
----
-
-- ## The Vampirire Diaries API 🧛
-
-<a href="https://github.com/afaf98/Vampire_diaries_API">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=afaf98&repo=Vampire_diaries_API&theme=radical" />
-</a>
 
 ---
 
@@ -64,5 +45,26 @@ Something that I really care in my projects is quality! I love creating Applicat
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+
+---
+
+# My Projects
+
+- ## My Photo Sharing App 📸
+
+<a href="https://github.com/afaf98/IG-Clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=afaf98&repo=IG-Clone&theme=radical" />
+</a>    
+<a href="https://github.com/afaf98/Backend_IGClone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=afaf98&repo=Backend_IGClone&theme=radical" />
+</a>
+
+---
+
+- ## The Vampirire Diaries API 🧛
+
+<a href="https://github.com/afaf98/Vampire_diaries_API">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=afaf98&repo=Vampire_diaries_API&theme=radical" />
+</a>
 
 ---
