@@ -30,10 +30,10 @@ Something that I really care in my projects is quality! I love creating Applicat
 - ## My Photo Sharing App 📸
 
 <a href="https://github.com/afaf98/IG-Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Afe98&repo=IG-Clone&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=afaf98&repo=IG-Clone&theme=radical" />
 </a>    
 <a href="https://github.com/afaf98/Backend_IGClone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?Afe98&repo=Backend_IGClone&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=afaf98&repo=Backend_IGClone&theme=radical" />
 </a>
 
 ---
@@ -41,7 +41,7 @@ Something that I really care in my projects is quality! I love creating Applicat
 - ## The Vampirire Diaries API 🧛
 
 <a href="https://github.com/afaf98/Vampire_diaries_API">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Afe98&repo=Vampire_diaries_API&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=afaf98&repo=Vampire_diaries_API&theme=radical" />
 </a>
 
 **Languages and Tools:**
