@@ -13,7 +13,7 @@ Something that I really care in my projects is quality! I love creating Applicat
 - 📫 Reach me if you wanna talk about new technologies, creating software products, or for anything else 😉
    - [afaf.ibrahimi@gmail.com]();
    - [Linkedin](https://www.linkedin.com/in/afaf-ibrahimi-7aab63169/)
-- 📝 That is my : [Resume](resume)
+- 📝 That is my : [Resume](https://docs.google.com/presentation/d/15ISEn89TyLKjBFjILridWnb-8GtrpnSlPsMu8et3FIU/edit?usp=sharing)
 
 ---
 
