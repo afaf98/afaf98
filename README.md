@@ -1,8 +1,7 @@
 ### Welcome 😊
 
-Hey there,
-I'm Afaf Ibrahimi, a 22 years old Italian girl, Full Stack Web Developer. I'm looking for a good opportunity to start contributing for projects in a team!
-Something that I really care in my projects is quality! I love creating Applications and Websites! I love creating an App from scratch!
+Hello,
+I'm Afaf Ibrahimi from Italy. During my computer science studies I discovered my dream to develop websites and apps. I'm looking for an opportunity to start contributing to projects as part of a team! It excites me to start from scratch and make all pieces fit together perfectly. I am most productive in JavaScript right now, but ready to learn new technologies!
 
 ---
 
