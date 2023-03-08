@@ -1,7 +1,7 @@
 ### Welcome 😊
 
 Hello,
-I'm Afaf Ibrahimi from Italy. During my computer science studies I discovered my dream to develop websites and apps. I'm looking for an opportunity to start contributing to projects as part of a team! It excites me to start from scratch and make all pieces fit together perfectly. I am most productive in JavaScript right now, but ready to learn new technologies!
+My name is Afaf Ibrahimi, and I am a 24-year-old Full Stack Web Developer from Italy. I am seeking an excellent opportunity to expand my skill set and collaborate with professional teams. It excites me to start from scratch and make all pieces fit together perfectly. I am most productive in JavaScript right now, but ready to learn new technologies!
 
 ---
 
